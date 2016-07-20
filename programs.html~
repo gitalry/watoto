@@ -3,25 +3,30 @@
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Watoto Children's Home</title>
     <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="css/foundation.css"> </head>
 
 <body>
-    <div class="row expanded">
-        <div class="small-12 medium-12 large-12 columns">
-            <ul> <b>WATOTO CHILDREN'S HOME</b>
-                <li style="float:right"><a href="stories.html">STORIES</a></li>
-                <li style="float:right"><a href="programs.html">PROGRAMS</a></li>
-                <li style="float:right"><a href="gallery.html">GALLERY</a></li>
-                <li style="float:right"><a href="index.html">HOME</a></li>
+    <nav class="nav"> <a class="toggle-nav" href="#">&#9776;</a>
+        <div class="nav-mobile">
+            <ul class="left">
+                <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="gallery.html"><i class="fa fa-fire"></i> Gallery</a></li>
+                <li><a href="programs.html"><i class="fa fa-book"></i> Programs</a></li>
+                <li> <a href="stories.html"><i class="fa fa-user"></i> Stories</a></li>
             </ul>
         </div>
-    </div>
+    </nav>
+
     <div class="row">
         <div class="large-12 columns">
             <p align="center"> <img src=images/Pic-Scholars.jpg width="50%" height="50%"> </p>
