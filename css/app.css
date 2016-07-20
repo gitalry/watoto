@@ -1,0 +1,45 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+.lable {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+==============
+/*the below; my nav bar*/
+
+.111 {
+    background-color: aquamarine;
+}
+
+.nav {
+    background-color: aquamarine;
+    color: black;
+    padding-top: 10px;
+    display: block;
+    padding-bottom: 18px;
+}
+
+ul {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    color: black;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li a: hover {
+    color: burlywood;
+}
