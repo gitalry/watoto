@@ -1,0 +1,47 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watoto Children's Home</title>
+    <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/foundation.css"> </head>
+
+<body>
+    <div class="row expanded">
+        <div class="small-12 medium-12 large-12 columns">
+            <ul> <b>WATOTO CHILDREN'S HOME</b>
+                <li style="float:right"><a href="stories.html">STORIES</a></li>
+                <li style="float:right"><a href="programs.html">PROGRAMS</a></li>
+                <li style="float:right"><a href="gallery.html">GALLERY</a></li>
+                <li style="float:right"><a href="index.html">HOME</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-12 columns">
+            <p align="center"> <img src=images/Pic-Scholars.jpg width="50%" height="50%"> </p>
+            <p> Cibo mucius oblique vis eu, at veritus torquatos his. Tale probo ullamcorper nam no, id sit homero vivendum, id atqui movet sit. Sea et ignota fabulas posidonium, habemus prodesset ad mel. Ne sit labitur dolores ullamcorper, velit oportere id pri. Et prima dicat vix Id eam assum debitis, nec causae hendrerit at. Ei est elit efficiendi signiferumque, et mea tibique gubergren conclusionemque. Vis ut inani oporteat, vim idque integre gubergren ad, an pri scripta laoreet. Pri incorrupte efficiendi appellantur et. Error dolores et mea, nibh omnes utroque at his.</p>
+            <p align="center"> <img src="images/daycare.jpg" width="50%" height="50%"></p>
+            <br>Te est semper mentitum, ne habeo scripta integre vim. No modus quodsi pri. Id illum mandamus mei. Ex has modus facer volutpat, eam duis placerat te, dicat indoctum qui eu. Est ne scripta fierent, id regione periculis democritum vix.
+            <br> Ex erat tritani has, in melius salutandi repudiare duo. Est in ornatus mnesarchum dissentiunt, vero ornatus eum id, has ad reque putent habemus. Eius novum appareat eu mea, duo vide alterum impedit in.
+            <br> Est idque minimum te. Per impetus consetetur te, aperiam graecis voluptaria est te. Iriure alterum accusamus ex mel, sea integre convenire id.
+            <br>
+            <p>
+        </div>
+        <div class="row expanded">
+            <div class="small-12 medium-12 large-12 columns footer">
+                <p align="center">&copy; James</p>
+            </div>
+        </div>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/vendor/what-input.js"></script>
+        <script src="js/vendor/foundation.js"></script>
+        <script src="js/app.js"></script>
+</body>
+
+</html>

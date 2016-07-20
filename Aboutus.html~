@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watoto Children's Home</title>
+    <link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/foundation.css"> </head>
+
+<body>
+    <div class="row expanded">
+        <div class="small-12 medium-12 large-12 columns">
+            <ul> <b>WATOTO CHILDREN'S HOME</b>
+                <li style="float:right"><a href="index.html">HOME</a></li>
+                <li style="float:right"><a href="gallery.html">GALLERY</a></li>
+                <li style="float:right"><a href="programs.html">PROGRAMS</a></li>
+                <li style="float:right"><a href="stories.html">STORIES</a></li>
+            </ul>
+        </div>
+    </div> Watoto serves 4,000 children every year and is a recognized world leader in providing orphanage services to children and affected families in Kenya. Boys Africa Kenya Food Eating Nyumbani VillageNyumbani delivers comprehensive medical and home-based services in crucial areas of need: diagnostic services and critical medical care, holistic family and community building, education and preventive care, environmental sustainability, and self-reliance. Watoto presents contrasts: We are ultramodern and high-tech, yet traditional and family-centered. Watoto serves the most vulnerable baby nursery Kenya. Watoto programs serve some of the poorest and most vulnerable populations of children, the elderly, and families in sub-Saharan </div>
+    <div class="row">
+        <div class="large-6 columns">
+            <br>
+            <br>
+            <br>
+            <br> Email: info@watoto.com
+            <br>
+            <br>
+            <br>
+            <br> cell:0722-000000
+            <br>
+            <br>
+            <br>
+            <br> P.O Box: 4439 Nairobi 0100
+            <br>
+            <br> </div>
+        <div class="large-6 columns">
+            <br>
+            <br> <img src="images/tww.png" height="100px" width="100px"> @watoto
+            <br>
+            <br>
+            <br> <img src="images/Google-plus-icon.png" eight="100px" width="100px"> Watoto_
+            <br>
+            <br>
+            <br>
+            <br> </div>
+        <div class="row expanded">
+            <div class="small-12 medium-12 large-12 columns footer">
+                <p align="center">&copy; James</p>
+            </div>
+        </div>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/vendor/what-input.js"></script>
+        <script src="js/vendor/foundation.js"></script>
+        <script src="js/app.js"></script>
+</body>
+
+</html>

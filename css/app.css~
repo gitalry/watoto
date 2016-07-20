@@ -1,0 +1,53 @@
+body {
+    width 100%;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navi {color: white;
+    background-color: blue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+li {
+    display: inline;
+    background-color: blue;
+    width: 100%;
+    color: white;
+    padding: 20px;
+    position: sticky;
+}
+
+.navbar {
+    background-color: blue;
+    padding: 20px;
+}
+
+h2 {
+    position: center;
+    color: green;
+}
+
+.picx {
+    height: 35%;
+}
+
+table a {
+    color: black;
+}
+
+a {
+    color: white;
+}
+
+li a:hover {
+    background-color: green
+}
+
+.footer {
+    background-color: gray;
+    padding: 20px;
+    clear: both;
+    background-color: blue;
+    color: white;
+}
